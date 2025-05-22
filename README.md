@@ -1,6 +1,9 @@
 ## Hi there 👋 :heart_eyes: 😍
 Im MeHere703! Im starting my Data Science Journey! Nice to meet You!
 
+## Current Rol
+Research and Planning Associate 😁
+
 <!--
 **MeHere703/MeHere703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
