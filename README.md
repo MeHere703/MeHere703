@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :heart_eyes: 😍
 Im MeHere703! Im starting my Data Science Journey! Nice to meet You!
 
 <!--
