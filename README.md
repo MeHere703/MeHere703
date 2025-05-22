@@ -1,4 +1,5 @@
 ## Hi there 👋
+Im MeHere703! Im starting my Data Science Journey! Nice to meet You!
 
 <!--
 **MeHere703/MeHere703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
