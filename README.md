@@ -1,8 +1,13 @@
-## Hi there 👋 :heart_eyes: 😍
+# Bonjour! 👋 😍😁
 Im MeHere703! Im starting my Data Science Journey! Nice to meet You!
 
 ## Current Role
-Research and Planning Associate 😁
+Research and Planning Associate 🔬
+
+## Things that keeps me preoccupied
+- Creating dashboards relevant to antimicrobial resistance
+- Helping out the team in doing descriptive and correlational analytics
+
 
 <!--
 **MeHere703/MeHere703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
