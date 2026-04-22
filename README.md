@@ -11,7 +11,7 @@ Research and Planning Associate
 
 ## My other passion in life 💕
 ❤️ Creating nice visualizations about wildlife  
-❤️ Providing discussions on doing data analytics with python
+❤️ Providing discussions on doing data analytics with python  
 ❤️ Learning more stuff about data science  
 
 
