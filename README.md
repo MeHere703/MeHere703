@@ -1,12 +1,12 @@
-# Bonjour! 👋 😍😁
+# Bonjour! 👋😍😁
 Im MeHere703! Im starting my Data Science Journey! Nice to meet You!
 
 ## Current Role
 Research and Planning Associate 🔬
 
 ## Things that keeps me preoccupied
-- Creating dashboards relevant to antimicrobial resistance
-- Helping out the team in doing descriptive and correlational analytics
+🛄 Creating dashboards relevant to antimicrobial resistance  
+🛄 Helping out the team in doing descriptive and correlational analytics  
 
 
 <!--
