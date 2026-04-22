@@ -14,6 +14,9 @@ Research and Planning Associate
 ❤️ Providing discussions on doing data analytics with python  
 ❤️ Learning more stuff about data science  
 
+## Kaisen State of Mind
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MeHere703)](https://git.io/streak-stats)
+
 
 <!--
 **MeHere703/MeHere703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
